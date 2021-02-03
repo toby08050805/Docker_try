@@ -1,0 +1,7 @@
+關掉以蝦工能  虛擬機會跟她衝突
+https://home.gamer.com.tw/creationDetail.php?sn=4516067
+bcdedit /set hypervisorlaunchtype off
+
+2.安裝vm ware
+
+3.http://ftp.stu.edu.tw/Linux/CentOS/7.9.2009/isos/x86_64/
