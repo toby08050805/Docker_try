@@ -5,3 +5,9 @@ bcdedit /set hypervisorlaunchtype off
 2.安裝vm ware
 
 3.http://ftp.stu.edu.tw/Linux/CentOS/7.9.2009/isos/x86_64/
+
+4.連結時要用bridg
+
+5.進去server 設定
+/etc/sysconfig/network-scripts/ifcfg-ens[number]
+onboot=yes 開啟網卡
